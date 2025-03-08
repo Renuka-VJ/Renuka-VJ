@@ -66,7 +66,9 @@ Description: A dynamic and responsive restaurant website with an interactive men
 🌟 Let's Connect!
 
 📧 Email: renukavellingiri.dev@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/renuka-v-896b2a233
+
 📌 GitHub: https://github.com/Renuka-VJ
 
 💬 Let's collaborate on exciting web development projects!
