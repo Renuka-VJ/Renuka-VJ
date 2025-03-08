@@ -55,9 +55,13 @@ Description: A dynamic and responsive restaurant website with an interactive men
 📖 What I'm Learning & Improving
 
 🔹 Advanced JavaScript & ES6+ Concepts
+
 🔹 React.js & Component-based Architecture
+
 🔹 Backend Development with Node.js & Express
+
 🔹 REST APIs & Database Integration
+
 🔹 UI/UX Design Principles for Better User Experience
 
 
